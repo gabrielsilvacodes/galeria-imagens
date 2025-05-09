@@ -1,6 +1,6 @@
 # 📸 Galeria de Imagens
 
-Este é um projeto desenvolvido com **React + TypeScript + Vite** que permite ao usuário adicionar imagens com uma legenda personalizada. A aplicação utiliza os principais conceitos do React ensinados em aula: componentização, props, estado (`useState`) e eventos.
+Este é um projeto desenvolvido com **React + TypeScript + Vite** que permite ao usuário adicionar imagens com uma legenda personalizada.
 
 ---
 
